@@ -12,4 +12,5 @@
 - Use Docker Hub documentation to figure out the right environment and volume settings
 - Extra Credit: Use volumes to store Drupal unique data
 
-- These are extra Lines for branch 
+- These are extra Lines for branch
+- for gernerate conflicts
